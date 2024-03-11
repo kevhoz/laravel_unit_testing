@@ -42,4 +42,38 @@
 <h2>
   Installation Laravel 10 Framework
 </h2>
+
+- Install Laravel via Composer. Open a terminal and run the following command to create a new Laravel project named laravel_unit_testing:
+
+```
+composer create-project --prefer-dist laravel/laravel laravel_unit_testing
+```
+
+- Navigate into your project directory:
+
+```
+cd laravel_unit_testing
+```
+
 </div>
+
+<div id="Install-Sanctum">
+<h2>
+  Installation Sanctum Authentication
+</h2>
+Laravel 10 supports Sanctum for API token authentication, which is suitable for SPA (Single Page Application), mobile applications, and simple token-based API authentication.
+
+- Install Laravel via Composer. Open a terminal and run the following command to create a new Laravel project named laravel_unit_testing:
+
+```
+composer create-project --prefer-dist laravel/laravel laravel_unit_testing
+```
+
+- Navigate into your project directory:
+
+```
+cd laravel_unit_testing
+```
+
+</div>
+
