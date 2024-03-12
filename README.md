@@ -40,7 +40,7 @@
 - Install Laravel via Composer. Open a terminal and run the following command to create a new Laravel project named laravel_unit_testing:
 
 ```
-composer create-project --prefer-dist laravel/laravel laravel_unit_testing
+composer create-project --prefer-dist laravel/laravel="10.*" laravel_unit_testing
 ```
 
 - Navigate into your project directory:
